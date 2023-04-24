@@ -1,0 +1,82 @@
+body {
+  background: #020102;
+  margin-right: 10%;
+}
+.Slides {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.Slides h1 {
+  color: grey;
+  font-size: 40px;
+  align-items: center;
+  justify-content: center;
+  text-decoration: dotted;
+  margin-left: 50px;
+  margin-top: 1px;
+  padding-top: 1%;
+}
+.slick-slide > div {
+  margin: 0 35px;
+  padding-right: 10px;
+}
+.slick-list {
+  margin: 0 35px;
+}
+.card {
+  border: 1px solid #cb80ff;
+  background: #020102;
+  border-radius: 25px;
+  overflow: hidden;
+  width: 50%;
+  height: 340px;
+  color: grey;
+  padding-left: 25%;
+  box-shadow: 0 2px 10px #8956f1;
+}
+
+.card-top h1 {
+  font-size: small;
+  margin: 10px 40px;
+}
+
+.card-bottom h3 {
+  font-size: small;
+  margin: 10px 40px;
+}
+.category {
+  position: relative;
+  font-size: small;
+  margin: 10px 40px;
+}
+
+.card-top > img {
+  width: 55%;
+  height: 55%;
+  object-fit: cover;
+  margin: 10%;
+}
+
+.card-bottom {
+  margin: 10px 20px;
+}
+
+.btn {
+  margin-left: 90px;
+  margin-bottom: 10px;
+  margin-right: 2px;
+  margin-top: 20px;
+  background: #020102;
+  color: grey;
+  border: 1px solid #cb80ff;
+  border-radius: 25px;
+  cursor: pointer;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  transition: background 200ms ease-in, color 200ms ease-in;
+}
+.btn:hover {
+  transform: scale(1.02);
+  box-shadow: 0 1px 5px grey;
+}

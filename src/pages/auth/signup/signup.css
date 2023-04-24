@@ -1,0 +1,57 @@
+/* .form {
+  text-algin: center;
+  padding: 50;
+}
+.label {
+  display: block;
+  font-size: smaller;
+  color: darkgrey;
+  padding: 5px;
+  margin-left: 45%;
+}
+
+.input {
+  font-size: small;
+  padding: 2px;
+  margin: 2px;
+  margin-left: 45%;
+}
+.btn {
+  color: darkgrey;
+  border-radius: 5px;
+  font-size: smaller;
+  display: block;
+  padding: 5px;
+  margin: 10px auto;
+}
+
+.messages {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.error {
+  display: block;
+  background-color: #020102;
+  cursor: pointer;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  transition: background 200ms ease-in, color 200ms ease-in;
+  color: red;
+  padding: 10px;
+  font-size: 5px;
+}
+
+.success {
+  display: block;
+  background-color: #020102;
+  cursor: pointer;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  transition: background 200ms ease-in, color 200ms ease-in;
+  color: greenyellow;
+  padding: 10px;
+  font-size: 5px;
+  margin-bottom: 20px;
+} */

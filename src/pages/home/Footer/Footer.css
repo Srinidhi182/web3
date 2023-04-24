@@ -1,0 +1,155 @@
+.section_padding {
+  padding: 2rem 2rem;
+  height: 100px;
+}
+
+.footer {
+  background-color: #241b35;
+  margin-top: 25px;
+  width: 110.8%;
+}
+
+.sb_footer {
+  display: flex;
+  flex-direction: column;
+}
+.sb_footer-links {
+  color: white;
+}
+.sb_footer-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+.sb_footer-links_div {
+  width: 150px;
+  margin: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  color: white;
+}
+
+a {
+  color: grey;
+  text-decoration: row;
+}
+a:hover {
+  color: #cb80ff;
+  text-decoration: none;
+  text-shadow: #241b31;
+}
+
+.socialmedia {
+  display: flex;
+  flex-direction: row;
+  line-height: 1px;
+  align-content: space-between;
+}
+
+.socialmedia p {
+  width: 50%;
+  height: 50%;
+}
+
+.socialmedia p:hover {
+  width: 100%;
+  height: 100%;
+  color: #cb80ff;
+  font-size: larger;
+}
+
+.sb_footer-links_div h4 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 0.9rem;
+  margin-top: 1px;
+}
+
+.sb_footer-links_div p {
+  font-size: 14px;
+  line-height: 15px;
+  margin: 0.5rem 0;
+  cursor: pointer;
+  height: 10px;
+}
+
+.sb_footer-below {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 0.2rem;
+}
+
+.sb_footer-below-links p {
+  font-size: 12px;
+  line-height: 15px;
+  margin-left: 50px;
+  color: grey;
+  font-weight: 600;
+  line-break: loose;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+hr {
+  width: 100%;
+}
+
+.sb_footer-copyright p {
+  font-size: 13px;
+  line-height: 15px;
+  color: white;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+/* @media screen and (max-width: 850px) {
+  .sb_footer-heading h1 {
+    font-size: 44px;
+    line-height: 50px;
+  }
+}
+@media screen and (max-width: 550px) {
+  .sb_footer-heading h1 {
+    font-size: 34px;
+    line-height: 42px;
+  }
+} */
+.sb_footer-links_div {
+  margin: 1rem 0;
+}
+
+.sb_footer-btn p {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.sb_footer-below {
+  margin-top: 5px;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.sb_footer-below-links {
+  /* flex-direction: row; */
+  display: flex;
+}
+
+.sb_footer-below-links p {
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+/* 
+@media screen and (max-width: 400px) {
+  .sb_footer-heading h1 {
+    font-size: 27px;
+    line-height: 38px;
+  }
+}  */

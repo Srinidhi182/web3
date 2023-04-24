@@ -1,0 +1,78 @@
+body {
+  background: #020102;
+  margin-right: 10%;
+}
+.Explore {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.Explore h1 {
+  color: grey;
+  font-size: large;
+  align-items: center;
+  justify-content: center;
+  text-decoration: dotted;
+  margin-left: 50px;
+  margin-top: 0%;
+  padding-top: 1%;
+  margin-bottom: 20px;
+}
+.slick-slide > div {
+  margin: 0 35px;
+}
+.slick-list {
+  margin: 0 35px;
+}
+.card {
+  border: 1px solid #cb80ff;
+  background: #020102;
+  border-radius: 25px;
+  overflow: hidden;
+  width: 50%;
+  height: 340px;
+  color: grey;
+  padding-left: 25%;
+  box-shadow: 0 2px 10px #8956f1;
+}
+
+.card-top h1 {
+  font-size: small;
+  margin: 10px 40px;
+}
+
+.card-bottom h3 {
+  font-size: small;
+  margin: 10px 40px;
+}
+.category {
+  position: relative;
+  font-size: small;
+  margin: 10px 40px;
+}
+
+.card-top > img {
+  width: 55%;
+  height: 55%;
+  object-fit: cover;
+  margin: 10%;
+}
+
+.card-bottom {
+  margin: 10px 20px;
+}
+
+.btn {
+  margin-left: 100px;
+  margin-bottom: 10px;
+  background: #020102;
+  color: grey;
+  border: 1px solid #cb80ff;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background 200ms ease-in, color 200ms ease-in;
+}
+.btn:hover {
+  transform: scale(1.02);
+  box-shadow: 0 1px 5px grey;
+}
