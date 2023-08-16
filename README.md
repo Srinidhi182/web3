@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# This is how the website works `\_(*-*)_/`
+
+### Trending products displayed 
+<img width="951" alt="edit2" src="https://github.com/Srinidhi182/web3/assets/92366628/c9f2aeb5-ee26-4973-8061-97f8b769bc06">
+
+### Crowd can either bid or sell the product(s) 
+<img width="946" alt="edit1" src="https://github.com/Srinidhi182/web3/assets/92366628/14829f62-6e75-48b1-a2d2-774222f7a58c">
+
+### Bid or Sell ? 
+<img width="953" alt="edit" src="https://github.com/Srinidhi182/web3/assets/92366628/f0a7f3fb-53e4-4842-a01f-b9ce0763a1eb">
+
+### Transaction happens through Metamask...
+<img width="960" alt="2023-05-11 (23)" src="https://github.com/Srinidhi182/web3/assets/92366628/282d2605-3a40-4706-85c4-78fa2d96a914">
+
+### Hola! Transaction happened successfully!! (@_@) 
+<img width="946" alt="edit3" src="https://github.com/Srinidhi182/web3/assets/92366628/626d03c5-5add-454d-88d6-bc5cdea9bec5">
