@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# How this website works `\_(*.*)_/`
+
+### Trending products displayed at the top , You can even upload your product(s)
+<img width="951" alt="edit2" src="https://github.com/Srinidhi182/web3/assets/92366628/c6a07198-04f6-4dea-9faf-621b8a4e8278">
+
+### choose the product(s) in which you want to invest/contribute in.
+<img width="946" alt="edit1" src="https://github.com/Srinidhi182/web3/assets/92366628/fc018c4b-5db9-4823-a0dd-1308b9c43d9b">
+
+### Bid or sell ? 
+<img width="953" alt="edit" src="https://github.com/Srinidhi182/web3/assets/92366628/60209056-5c29-465e-9ed2-87f8e603bb9d">
+
+### Transaction happens through Metamask...
+<img width="960" alt="2023-05-11 (23)" src="https://github.com/Srinidhi182/web3/assets/92366628/66ebe97d-6346-4339-972e-e19081e11afa">
+
+## Hola! Your Transaction happened successfully !! (@_@)
+<img width="946" alt="edit3" src="https://github.com/Srinidhi182/web3/assets/92366628/e7a64f47-35ca-4806-9c19-edc43f2a52a7">
+
